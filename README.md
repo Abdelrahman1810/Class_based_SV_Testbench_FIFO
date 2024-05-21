@@ -1,4 +1,4 @@
-# Class-Based SV Testbench for Synchronous FIFO
+# Class-Based SV Testbench for Asynchronous FIFO
 
 ## Design Overview
 This repository contains a SystemVerilog (SV) project for verifying a synchronous FIFO design. The project includes a class-based testbench, a reference design, and various utility packages to facilitate the verification process.
