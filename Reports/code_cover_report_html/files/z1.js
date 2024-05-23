@@ -1,2 +1,0 @@
-var g_data = {"3":{"st":"inst","pa":0,"n":"/\\top#dut ","l":"Verilog","sn":3,"du":{"n":"work.FIFO","s":1,"b":1},"bc":[{"n":"\\top#dut ","s":3,"z":1}],"loc":{"cp":100.00,"data":{"s":[32,32],"b":[29,29],"fc":[25,25],"t":[20,20],"d":[40,40]}}},"1":{"st":"du","pa":0,"n":"work.FIFO","l":"Verilog","sn":1,"one_inst":3,"loc":{"cp":100.00,"data":{"s":[32,32],"b":[29,29],"fc":[25,25],"t":[20,20],"d":[40,40]}}}};
-processSummaryData(g_data);
